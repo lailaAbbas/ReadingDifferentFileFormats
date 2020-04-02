@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1585815534 source:e:\data storage section week 8\readingdifferentfileformats\main.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"Student.h"
+	"FixedSizeFile.h"
+	"PreDefinedSizeFile.h"
+
+1585778137 source:e:\data storage section week 8\readingdifferentfileformats\src\student.cpp
+	"Student.h"
+	<string.h>
+	<iostream>
+	<typeinfo>
+
+1585778114 e:\data storage section week 8\readingdifferentfileformats\include\student.h
+	<string>
+
+1585815675 source:e:\data storage section week 8\readingdifferentfileformats\src\fixedsizefile.cpp
+	"FixedSizeFile.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<iomanip>
+	<string.h>
+	<sstream>
+	<cstdlib>
+	"Student.h"
+
+1585779138 e:\data storage section week 8\readingdifferentfileformats\include\fixedsizefile.h
+	<fstream>
+	"Student.h"
+
+1585815344 source:e:\data storage section week 8\readingdifferentfileformats\src\predefinedsizefile.cpp
+	"PreDefinedSizeFile.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<iomanip>
+	<string.h>
+	<sstream>
+	<cstdlib>
+	<cmath>
+	<typeinfo>
+	"Student.h"
+
+1585812676 e:\data storage section week 8\readingdifferentfileformats\include\predefinedsizefile.h
+	<fstream>
+	"Student.h"
+
+1585816571 source:e:\data storage section week 8\readingdifferentfileformats\src\delimitedsizefile.cpp
+	"DelimitedSizeFile.h"
+	"Student.h"
+
+1585816303 e:\data storage section week 8\readingdifferentfileformats\include\delimitedsizefile.h
+	<fstream>
+	"Student.h"
+
